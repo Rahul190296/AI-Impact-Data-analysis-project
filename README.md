@@ -379,14 +379,3 @@ Automation risk varies significantly across industries.
 Rahul Pandey
 
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
-
----
-
-# ⭐ Project Highlights
-
-✅ End-to-end analytics workflow
-✅ Python + SQL + Power BI integration
-✅ Feature engineering & EDA
-✅ Custom DAX measures
-✅ Business storytelling dashboards
-✅ Portfolio-ready project
