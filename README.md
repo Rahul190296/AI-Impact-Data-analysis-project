@@ -61,7 +61,7 @@ The raw dataset was imported into Google Colab for cleaning, preprocessing, feat
 
 ### Dataset Exploration
 
-![Python EDA](images/eda_1.png)
+![Python EDA](eda_1.png)
 
 
 ---
@@ -76,7 +76,7 @@ salary_change_pct
 salary_change_bin
 Years_Experience_bin
 ```
-![Python EDA](images/additional_eda_2.png)
+![Python EDA](additional_eda_2.png)
 
 
 
@@ -96,7 +96,7 @@ These helped analyze:
 * Large portion of jobs are modified
 * Very few jobs are replaced
 
-![Job Status](images/js_dist.png)
+![Job Status](js_dist.png)
 
 ---
 
@@ -106,7 +106,7 @@ These helped analyze:
 * Modified roles also showed strong growth
 * Unchanged jobs had the lowest salary improvement
 
-![Salary Change](images/sal_change.png)
+![Salary Change](sal_change.png)
 
 ---
 
@@ -124,7 +124,7 @@ These helped analyze:
 
 The salary distribution shifted upward after AI adoption.
 
-![AI Productivity](images/sal_before_after.png)
+![AI Productivity](sal_before_after.png)
 
 ---
 
@@ -144,7 +144,7 @@ After completing the Python analysis, the cleaned dataset was loaded into MySQL.
 
 # 📸 MySQL Table Creation
 
-![MySQL Table](images/sql_table_craetion.png)
+![MySQL Table](sql_table_craetion.png)
 
 ---
 
@@ -152,7 +152,7 @@ After completing the Python analysis, the cleaned dataset was loaded into MySQL.
 
 Validated imported records directly inside MySQL Workbench.
 
-![MySQL Validation](images/mysql_data_validation.png)
+![MySQL Validation](mysql_data_validation.png)
 
 ---
 
@@ -171,13 +171,13 @@ The MySQL database was connected directly to Power BI using the MySQL connector.
 
 # 📸 Power BI MySQL Connection
 
-![Power BI Connection](images/Loading_into_bi_1.png)
+![Power BI Connection](Loading_into_bi_1.png)
 
 ---
 
 # 📸 Power BI Data Loading Navigator
 
-![Power BI Connection](images/Loading_into_bi_2.png)
+![Power BI Connection](Loading_into_bi_2.png)
 
 ---
 
@@ -271,7 +271,7 @@ DIVIDE(
 
 ## 📸 Dashboard 1
 
-![Dashboard 1](images/dashboard_1.png)
+![Dashboard 1](dashboard_1.png)
 
 ---
 
