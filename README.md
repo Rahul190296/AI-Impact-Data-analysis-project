@@ -305,7 +305,7 @@ Different industries experience different automation risk levels.
 
 ## 📸 Dashboard 2
 
-![Dashboard 2](images/dashboard_2.png)
+![Dashboard 2](dashboard_2.png)
 
 ---
 
